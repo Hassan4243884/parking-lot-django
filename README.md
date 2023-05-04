@@ -1,2 +1,2 @@
-# parking-lot-django
+# Parking Lot Application 
 A Parking Lot 
